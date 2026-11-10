@@ -8,6 +8,7 @@
   Windows 10/11 x64 · C++20 · Qt 6 · OpenGL · Portfolio Project
 </p>
 
+<h2 align="center">首次使用请在“视图 → 恢复标准布局”</h2>
 > 本项目用于个人作品展示和技术面试交流，源代码未公开
 
 ## 项目简介
