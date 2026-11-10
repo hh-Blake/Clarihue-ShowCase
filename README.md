@@ -22,6 +22,10 @@ Clarihue 是一款面向桌面端的图像编辑软件，围绕图层化编辑�
 - 如何让预览操作、提交操作和撤销重做保持一致
 - 如何将 FreeType、HarfBuzz 和 OpenGL 接入 Qt Widgets 应用
 
+## 界面预览
+
+![Clarihue 主界面](clarihue.png)
+
 ## 下载
 
 Windows 安装包位于本仓库根目录
